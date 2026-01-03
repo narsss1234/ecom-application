@@ -1,0 +1,4 @@
+com\app\ecom\User.class
+com\app\ecom\UserService.class
+com\app\ecom\EcomApplication.class
+com\app\ecom\UserController.class
